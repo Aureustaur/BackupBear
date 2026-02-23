@@ -17,7 +17,7 @@ A robust, sleek Linux GUI wrapper for `rsync` and `rclone`, built with Electron.
 ## 📸 Interface Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/options.jpg" alt="Filters and Excludes" width="49%">
+  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/refs/heads/main/screenshots/options.png" alt="Filters and Excludes" width="49%">
   <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/cloud.jpg" alt="Cloud and Explorer" width="49%">
 </p>
 <p align="center">
