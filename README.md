@@ -3,7 +3,7 @@
 A robust, sleek Linux GUI wrapper for `rsync` and `rclone`, built with Electron.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/main.jpg" alt="BackupBear Main Interface" width="85%">
+  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/main.png" alt="BackupBear Main Interface" width="85%">
 </p>
 
 ## 🚀 Features
@@ -18,11 +18,11 @@ A robust, sleek Linux GUI wrapper for `rsync` and `rclone`, built with Electron.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/refs/heads/main/screenshots/options.png" alt="Filters and Excludes" width="49%">
-  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/cloud.jpg" alt="Cloud and Explorer" width="49%">
+  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/cloud.png" alt="Cloud and Explorer" width="49%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/sched.jpg" alt="Headless Automation" width="49%">
-  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/about.jpg" alt="About BackupBear" width="49%">
+  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/sched.png" alt="Headless Automation" width="49%">
+  <img src="https://raw.githubusercontent.com/Aureustaur/BackupBear/main/screenshots/about.png" alt="About BackupBear" width="49%">
 </p>
 
 ---
