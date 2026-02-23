@@ -1,4 +1,4 @@
-# 🐻 BackupBear v14.1.69 (Ultimate Edition)
+# 🐻 BackupBear v14.1.69
 
 A robust, sleek Linux GUI wrapper for `rsync` and `rclone`, built with Electron.
 
